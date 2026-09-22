@@ -21,7 +21,7 @@ rm(list = ls())
 ## setup your working directory and files
 # IF THIS IS A NEW SCRIPT VERSION - change the line below to your working directory in the double quotations
 # make sure there aren't single quotations as well, and you've replaced backslashes if you're on a PC
-setwd("/Users/chloetalbot/Desktop/PSYC4091")
+# setwd("YOUR/PATHWAY/HERE")
 
 ## read in your data file
 
